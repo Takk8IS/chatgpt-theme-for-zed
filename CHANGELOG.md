@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.2] - 2024-06-12
+
+-   Refined the color scheme.
+
 ## [0.1.1] - 2024-06-11
 
 -   Creation of the first release.
