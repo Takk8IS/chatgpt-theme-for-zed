@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.3] - 2024-06-17
+
+-   Refined the color GUI scheme.
+
 ## [0.1.2] - 2024-06-12
 
 -   Refined the color scheme.

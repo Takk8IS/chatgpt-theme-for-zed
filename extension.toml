@@ -1,7 +1,7 @@
 id = "chatgpt"
 name = "ChatGPT Theme"
 authors = ["David C Cavalcante <davcavalcante@proton.me>", "Takk™ Innovate Studio <say@takk.ag>"]
-version = "0.1.2"
+version = "0.1.3"
 schema_version = 1
 description = "📺 Inspired by the sleek design and intuitive color scheme of ChatGPT, this theme offers a refreshing and visually appealing coding experience."
 repository = "https://github.com/takk8is/chatgpt-theme-for-zed"
