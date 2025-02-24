@@ -1,23 +1,27 @@
 # Change Log
 
+## [0.1.4] - 2025-02-24
+
+- Change deprecated scrollbar_thumb.background style property to scrollbar.thumb.background.
+
 ## [0.1.3] - 2024-06-17
 
--   Refined the color GUI scheme.
+- Refined the color GUI scheme.
 
 ## [0.1.2] - 2024-06-12
 
--   Refined the color scheme.
+- Refined the color scheme.
 
 ## [0.1.1] - 2024-06-11
 
--   Creation of the first release.
--   Updated syntax highlighting to include additional styles for built-in types and functions.
--   Refined the color scheme to enhance readability and reduce eye strain during long coding sessions.
+- Creation of the first release.
+- Updated syntax highlighting to include additional styles for built-in types and functions.
+- Refined the color scheme to enhance readability and reduce eye strain during long coding sessions.
 
 ## [0.1.0] - 2024-06-10
 
--   Improved color contrast for better differentiation between elements.
--   Fixed an issue with inactive tabs not displaying the correct background color.
--   Initial design and implementation of the ChatGPT theme for Zed.
--   Introduced a dark mode theme inspired by the ChatGPT interface, featuring a modern and clean aesthetic.
--   Added comprehensive syntax highlighting for various code elements.
+- Improved color contrast for better differentiation between elements.
+- Fixed an issue with inactive tabs not displaying the correct background color.
+- Initial design and implementation of the ChatGPT theme for Zed.
+- Introduced a dark mode theme inspired by the ChatGPT interface, featuring a modern and clean aesthetic.
+- Added comprehensive syntax highlighting for various code elements.
